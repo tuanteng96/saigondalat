@@ -185,13 +185,8 @@ export default class extends React.Component {
               />
               <SlideList
                 className="banner-main"
-<<<<<<< HEAD
                 BannerName="App.MainSale"
                 autoplaySpeed={4500}
-=======
-                BannerName="APP.SlideUuDai"
-                autoplaySpeed={5000}
->>>>>>> refs/remotes/origin/main
               />
               <Suspense fallback={<div>Loading...</div>}>
                 <SlideList
